@@ -1,0 +1,101 @@
+body {
+	background-color: black;
+	color: #D9D9D9;
+	font-family: "Poppins", sans-serif;
+	margin: 70px 315px;
+}
+
+.best {
+	font-style: italic;
+}
+
+.mfw {
+	color: #B00000;
+}
+
+.a-mfw {
+	color: #B00000;
+	text-decoration: underline;
+	text-decoration-color: #CA1A70;
+}
+
+.wrong {
+	color: #D24637;
+	text-decoration: underline;
+	font-weight: 600;
+}
+
+a {
+	color: #01A2E7;
+}
+
+a:visited {
+	color: #CA1A70;
+}
+
+.color {
+	color: #444;
+}
+
+.colors {
+	color: #454545;
+}
+
+.kopimi {
+	text-align: center;
+}
+
+.shitty {
+	color: #0000EE;
+	cursor: not-allowed;
+  	pointer-events: none;
+  	user-select: none;
+}
+
+.violetish {
+	color: #551A8B;
+	cursor: not-allowed;
+  	pointer-events: none;
+  	user-select: none;
+}
+
+.maroon {
+	color: #941352;
+}
+
+.maroonul {
+	color: #941352;
+	text-decoration: underline;
+	text-decoration-color: #01A2E7;
+}
+
+.maroonul:visited {
+	color: #941352;
+	text-decoration: underline;
+	text-decoration-color: #941352;
+}
+
+.mini {
+	font-size: 6px;
+}
+
+legend {
+	font-size: 10px;
+}
+
+.german {
+	font-size: 8px;
+	font-style: italic;
+}
+
+.centerz {
+	align-content: center;
+}
+
+.rainbow {
+	color: pink;
+}
+
+.center-button {
+  text-align: center;
+}
